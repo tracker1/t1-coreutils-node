@@ -1,0 +1,28 @@
+{
+  "name": "t1-coreutils-node",
+  "version": "0.1.0",
+  "description": "hashUtility and cryptoUtility complement to T1.CoreUtils",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tracker1/t1-coreutils-node.git"
+  },
+  "keywords": [
+    "crypto",
+    "scrypt",
+    "sha512",
+    "aes256"
+  ],
+  "author": "Michael J. Ryan (tracker1.info)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tracker1/t1-coreutils-node/issues"
+  },
+  "dependencies": {}
+}
